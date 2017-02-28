@@ -7,7 +7,7 @@
         <!-- Tool Set Version -->        
         <preference name='phonegap-version' value='cli-6.5.0' />
 
-        <name>Google Map2 Show</name>
+        <name>Camera Cordova</name>
         <description>Example Google Maps</description>
         <author href="http://bsdmasterindex.com" email="jessemonroy650@yahoo.com">
         Jesse Monroy
